@@ -5,7 +5,7 @@
 -  devs.
 - 📫 contato comigo:
 -        61992946735
--        /in/PedroDEV-oliveira
+-        www.linkedin.com/in/PedroDEV-oliveira
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
