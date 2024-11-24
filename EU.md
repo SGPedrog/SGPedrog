@@ -3,7 +3,10 @@
 - 🌱 atualmente estou cursando 4' semestre em ciencias da computação na descomplica(EAD).
 - 💞️ Estou criando meu perfil no github para compartilhar conhecimento e conhecer outros
 -  devs.
-- 📫 How to reach me ...
+- 📫 contato comigo:
+-        61992946735
+-        www.linkedin.com/in/
+PedroDev-oliveira
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
